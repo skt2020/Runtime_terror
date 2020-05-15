@@ -1,7 +1,6 @@
-#Version -1.6(Beta)
+# Version -1.6 (Beta)
 
-
-#BETA version notice
+# BETA version notice
 This is an early preview and is neither perfect nor fully featured. This is a glimpse of our direction but may change quite a bit without notice.
 
 You can use it to manage your appointments and more features will be added until we feel ready to have it take over the existing interface.
@@ -15,9 +14,7 @@ This Project aims its objectives to multiple foregrounds namely Fun, Entertainme
 
 
 
-
-
-#Team Members
+# Team Members
  Suryansh Trivedi
  Utkarsh Gumphekar
  Sankalp Patel
